@@ -9,7 +9,7 @@ Command-Line Interface: User-friendly command-line interface to encode and decod
 Error Handling: Robust error handling for invalid inputs and corrupted images.
 Cross-Platform: Compatible with multiple operating systems including Windows, macOS, and Linux.
 
-Prerequisites
+Prerequisites:
 A C compiler (GCC recommended)
 BMP image files for encoding and decoding
 
